@@ -6,6 +6,7 @@
 # Distributed under terms of the MIT license.
 #
 
+rm -rf tmp/plugin.video.giraffe.seasonvar
 git clone --depth=1 git@github.com:weirdgiraffe/plugin.video.giraffe.seasonvar.git tmp/plugin.video.giraffe.seasonvar
 cd tmp/plugin.video.giraffe.seasonvar
 git fetch --tags
