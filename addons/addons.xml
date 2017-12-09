@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.giraffe.seasonvar"
        name="[COLOR FF7B68EE]giraffe.[/COLOR][COLOR FFFFD700]Seasonvar[/COLOR]"
-       version="0.2.7"
+       version="0.2.8"
        provider-name="weirdgiraffe">
   <requires>
     <import addon="script.module.requests" version="2.12.4"/>
